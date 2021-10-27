@@ -1,0 +1,22 @@
+body
+{ 
+	background-color: #e6f5ff;
+	font-family: verdana;
+	font-size: 20px;
+	color: #33adff;
+	text-shadow: 1px 1px 1px #001f33,
+		1px 2px 1px #001f33,
+		1px 3px 1px #001f33,
+		1px 4px 1px #001f33,
+		1px 4px 1px #001f33;
+
+}
+.mytestimg
+{
+	clip-path: circle(50%);
+	width: 200px;
+	height: 200px;
+}
+
+
+
